@@ -1,0 +1,6 @@
+# built items
+/AvatarCustomiser/bin/
+/AvatarCustomiser/obj/
+
+.appsettings.Development.json
+.appsettings.json
