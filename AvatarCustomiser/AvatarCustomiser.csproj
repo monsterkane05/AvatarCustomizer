@@ -12,7 +12,8 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Resources\" />
+      <Folder Include="Resources\Background\" />
+      <Folder Include="Resources\Bodys\" />
     </ItemGroup>
 
 </Project>
